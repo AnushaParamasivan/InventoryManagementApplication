@@ -52,5 +52,7 @@ Assumptions:
 
 4. The deployment strategy, including compute capacity, storage, autoscalability, high availability, monitoring, shall be decided, based on the request volume, SLA, DR requirement.
 
+5. Product inventory details and store details are to be uploaded as .csv file, using upload endpoint.  Sample files are included in the project.
+
 
 
