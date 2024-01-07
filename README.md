@@ -48,5 +48,9 @@ Assumptions:
 
 2. hibernate.ddl-auto is set as CREATE, so that all tables will be created newly on server startup.  This can be set to UPDATE if required.
 
+3. Only REST APIs are developed and included.
+
+4. The deployment strategy, including compute capacity, storage, autoscalability, high availability, monitoring, shall be decided, based on the request volume, SLA, DR requirement.
+
 
 
